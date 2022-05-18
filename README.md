@@ -15,10 +15,13 @@ We used different model for instance a simple linear model than second order one
 These models were compared using different metrics; To evaluate models we used Crossvalidation(SSR), FPE and AIC.
 
 *linear model*
+
 ![primo ordine](https://user-images.githubusercontent.com/48360582/169086944-b9612e74-c932-4764-82d2-66e61f475b4a.jpg)
 
 
+
 *second order model*
+
 ![Secondo ordine](https://user-images.githubusercontent.com/48360582/169086980-def957d0-2bff-4bcf-b282-77f9d63c0f9f.jpg)
 
 
