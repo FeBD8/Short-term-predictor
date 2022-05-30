@@ -25,4 +25,5 @@ These models were compared using different metrics; To evaluate models we used C
 ![Secondo ordine](https://user-images.githubusercontent.com/48360582/169086980-def957d0-2bff-4bcf-b282-77f9d63c0f9f.jpg)
 
 
-At the end the best was a simple linear model that does not use values of saturday and sunday that were considered as outliers in fact they are completly different and outscale with respect to ones of the week.
+# Results
+At the end the best model found was a simple linear model that does not use values of saturday and sunday. These values were considered as outliers in fact they are completly different and outscale with respect to ones of the week.
